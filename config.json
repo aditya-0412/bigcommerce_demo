@@ -62,6 +62,7 @@
         "switch_url": "https://cornerstone-warm-demo.mybigcommerce.com"
       }
     ],
+    "btn-shop-text": "Shop Now",
     "show_channels": false,
     "hide_breadcrumbs": false,
     "hide_page_heading": false,

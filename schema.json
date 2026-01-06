@@ -1010,6 +1010,15 @@
       },
       {
         "type": "heading",
+        "content": "i18n.CardComponent"
+      },
+      {
+        "type": "text",
+        "label": "i18n.CardComponentButtonText",
+        "id": "btn-shop-text"
+      },
+      {
+        "type": "heading",
         "content": "i18n.Products"
       },
       {

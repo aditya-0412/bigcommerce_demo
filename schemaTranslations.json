@@ -6021,5 +6021,43 @@
     "ko": "Bolt",
     "pl": "Bolt",
     "ja": "Bolt"
+  },
+  "i18n.CardComponent": {
+    "default": "Card",
+    "fr": "Carte",
+    "it": "Carta",
+    "zh": "卡片",
+    "de": "Karte",
+    "es": "Tarjeta",
+    "nl": "Kaart",
+    "pt": "Cartão",
+    "pt-BR": "Cartão",
+    "sv": "Kort",
+    "es-MX": "Tarjeta",
+    "es-419": "Tarjeta",
+    "da": "Kort",
+    "no": "Kort",
+    "ko": "카드",
+    "pl": "Karta",
+    "ja": "カード"
+  },
+  "i18n.CardComponentButtonText": {
+    "default": "Shop Now",
+    "fr": "Acheter maintenant",
+    "it": "Acquista ora",
+    "zh": "立即购买",
+    "de": "Jetzt einkaufen",
+    "es": "Comprar ahora",
+    "nl": "Nu winkelen",
+    "pt": "Comprar agora",
+    "pt-BR": "Comprar agora",
+    "sv": "Köp nu",
+    "es-MX": "Comprar ahora",
+    "es-419": "Comprar ahora",
+    "da": "Køb nu",
+    "no": "Kjøp nå",
+    "ko": "지금 구매하기",
+    "pl": "Kup teraz",
+    "ja": "今すぐ購入"
   }
 }
